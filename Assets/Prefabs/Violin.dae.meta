@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 837da7798d838794b9d46d5c03d5f581
+timeCreated: 1519050876
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: ID102
+    100004: ID110
+    100006: ID118
+    100008: ID126
+    100010: ID134
+    100012: ID142
+    100014: ID150
+    100016: ID158
+    100018: ID166
+    100020: ID174
+    100022: ID182
+    100024: ID190
+    100026: ID198
+    100028: ID214
+    100030: ID222
+    100032: ID230
+    100034: ID238
+    100036: ID24
+    100038: ID246
+    100040: ID254
+    100042: ID262
+    100044: ID270
+    100046: ID278
+    100048: ID296
+    100050: ID302
+    100052: ID308
+    100054: ID332
+    100056: ID344
+    100058: ID350
+    100060: ID356
+    100062: ID362
+    100064: ID368
+    100066: ID387
+    100068: ID395
+    100070: ID403
+    100072: ID407
+    100074: ID411
+    100076: ID415
+    100078: ID419
+    100080: ID42
+    100082: ID423
+    100084: ID52
+    100086: ID60
+    100088: ID73
+    100090: ID81
+    100092: ID89
+    100094: instance_0
+    100096: instance_1
+    100098: instance_10
+    100100: instance_2
+    100102: instance_3
+    100104: instance_4
+    100106: instance_5
+    100108: instance_6
+    100110: instance_7
+    100112: instance_8
+    100114: instance_9
+    100116: knobby_thing
+    100118: //RootNode
+    100120: Neck
+    100122: Peg1
+    100124: Peg1 1
+    100126: Peg1 2
+    100128: Peg1 3
+    100130: skp_camera_Last_Saved_SketchUp_View
+    100132: Strings
+    100134: Tailpiece
+    100136: Tailpiece__etc.
+    100138: violin_body
+    400000: Bridge
+    400002: ID102
+    400004: ID110
+    400006: ID118
+    400008: ID126
+    400010: ID134
+    400012: ID142
+    400014: ID150
+    400016: ID158
+    400018: ID166
+    400020: ID174
+    400022: ID182
+    400024: ID190
+    400026: ID198
+    400028: ID214
+    400030: ID222
+    400032: ID230
+    400034: ID238
+    400036: ID24
+    400038: ID246
+    400040: ID254
+    400042: ID262
+    400044: ID270
+    400046: ID278
+    400048: ID296
+    400050: ID302
+    400052: ID308
+    400054: ID332
+    400056: ID344
+    400058: ID350
+    400060: ID356
+    400062: ID362
+    400064: ID368
+    400066: ID387
+    400068: ID395
+    400070: ID403
+    400072: ID407
+    400074: ID411
+    400076: ID415
+    400078: ID419
+    400080: ID42
+    400082: ID423
+    400084: ID52
+    400086: ID60
+    400088: ID73
+    400090: ID81
+    400092: ID89
+    400094: instance_0
+    400096: instance_1
+    400098: instance_10
+    400100: instance_2
+    400102: instance_3
+    400104: instance_4
+    400106: instance_5
+    400108: instance_6
+    400110: instance_7
+    400112: instance_8
+    400114: instance_9
+    400116: knobby_thing
+    400118: //RootNode
+    400120: Neck
+    400122: Peg1
+    400124: Peg1 1
+    400126: Peg1 2
+    400128: Peg1 3
+    400130: skp_camera_Last_Saved_SketchUp_View
+    400132: Strings
+    400134: Tailpiece
+    400136: Tailpiece__etc.
+    400138: violin_body
+    2300000: Bridge
+    2300002: ID102
+    2300004: ID110
+    2300006: ID118
+    2300008: ID126
+    2300010: ID134
+    2300012: ID142
+    2300014: ID150
+    2300016: ID158
+    2300018: ID166
+    2300020: ID174
+    2300022: ID182
+    2300024: ID190
+    2300026: ID214
+    2300028: ID222
+    2300030: ID230
+    2300032: ID238
+    2300034: ID24
+    2300036: ID246
+    2300038: ID254
+    2300040: ID262
+    2300042: ID270
+    2300044: ID278
+    2300046: ID296
+    2300048: ID302
+    2300050: ID308
+    2300052: ID332
+    2300054: ID344
+    2300056: ID350
+    2300058: ID356
+    2300060: ID387
+    2300062: ID395
+    2300064: ID42
+    2300066: ID52
+    2300068: ID60
+    2300070: ID73
+    2300072: ID81
+    2300074: ID89
+    2300076: knobby_thing
+    2300078: Neck
+    2300080: Peg1
+    2300082: Peg1 1
+    2300084: Peg1 2
+    2300086: Peg1 3
+    2300088: Strings
+    2300090: Tailpiece
+    2300092: Tailpiece__etc.
+    2300094: violin_body
+    3300000: Bridge
+    3300002: ID102
+    3300004: ID110
+    3300006: ID118
+    3300008: ID126
+    3300010: ID134
+    3300012: ID142
+    3300014: ID150
+    3300016: ID158
+    3300018: ID166
+    3300020: ID174
+    3300022: ID182
+    3300024: ID190
+    3300026: ID214
+    3300028: ID222
+    3300030: ID230
+    3300032: ID238
+    3300034: ID24
+    3300036: ID246
+    3300038: ID254
+    3300040: ID262
+    3300042: ID270
+    3300044: ID278
+    3300046: ID296
+    3300048: ID302
+    3300050: ID308
+    3300052: ID332
+    3300054: ID344
+    3300056: ID350
+    3300058: ID356
+    3300060: ID387
+    3300062: ID395
+    3300064: ID42
+    3300066: ID52
+    3300068: ID60
+    3300070: ID73
+    3300072: ID81
+    3300074: ID89
+    3300076: knobby_thing
+    3300078: Neck
+    3300080: Peg1
+    3300082: Peg1 1
+    3300084: Peg1 2
+    3300086: Peg1 3
+    3300088: Strings
+    3300090: Tailpiece
+    3300092: Tailpiece__etc.
+    3300094: violin_body
+    4300000: Neck
+    4300002: ID24
+    4300004: ID42
+    4300006: ID52
+    4300008: ID60
+    4300010: ID73
+    4300012: ID81
+    4300014: ID89
+    4300016: ID102
+    4300018: ID110
+    4300020: ID118
+    4300022: ID126
+    4300024: ID134
+    4300026: ID142
+    4300028: ID150
+    4300030: ID158
+    4300032: ID166
+    4300034: ID174
+    4300036: ID182
+    4300038: ID190
+    4300040: Peg1
+    4300042: Bridge
+    4300044: ID214
+    4300046: ID222
+    4300048: ID230
+    4300050: ID238
+    4300052: ID246
+    4300054: ID254
+    4300056: ID262
+    4300058: ID270
+    4300060: ID278
+    4300062: Strings
+    4300064: ID296
+    4300066: ID302
+    4300068: ID308
+    4300070: Tailpiece
+    4300072: ID344
+    4300074: ID350
+    4300076: ID356
+    4300078: knobby_thing
+    4300080: Tailpiece__etc.
+    4300082: ID332
+    4300084: violin_body
+    4300086: ID387
+    4300088: ID395
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
